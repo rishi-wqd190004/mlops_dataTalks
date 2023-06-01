@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rishinigam/mlops_dataTalks/assignment_2/mlruns/112782879243745607/e0c23a9ab75a421088816c0ea0081407/artifacts
+end_time: 1685614530196
+entry_point_name: ''
+experiment_id: '112782879243745607'
+lifecycle_stage: active
+run_id: e0c23a9ab75a421088816c0ea0081407
+run_name: smiling-koi-633
+run_uuid: e0c23a9ab75a421088816c0ea0081407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685614522940
+status: 3
+tags: []
+user_id: rishinigam

@@ -1,0 +1,6 @@
+artifact_location: file:///Users/rishinigam/mlops_dataTalks/assignment_2/mlruns/112782879243745607
+creation_time: 1685614423462
+experiment_id: '112782879243745607'
+last_update_time: 1685614423462
+lifecycle_stage: active
+name: random-forest-train

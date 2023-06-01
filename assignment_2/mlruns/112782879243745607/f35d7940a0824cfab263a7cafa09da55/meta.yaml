@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rishinigam/mlops_dataTalks/assignment_2/mlruns/112782879243745607/f35d7940a0824cfab263a7cafa09da55/artifacts
+end_time: 1685614432365
+entry_point_name: ''
+experiment_id: '112782879243745607'
+lifecycle_stage: active
+run_id: f35d7940a0824cfab263a7cafa09da55
+run_name: bright-mink-268
+run_uuid: f35d7940a0824cfab263a7cafa09da55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685614424058
+status: 3
+tags: []
+user_id: rishinigam
